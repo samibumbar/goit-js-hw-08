@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "src",
+		"path": "."
+	},
+	{
+		"name": "parcel-project-template",
+		"path": "../../Desktop/parcel-project-template"
+	}
+],
+  "settings": {}
+}
